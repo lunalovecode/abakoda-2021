@@ -1,0 +1,1 @@
+print(20211225 % int(input()))
